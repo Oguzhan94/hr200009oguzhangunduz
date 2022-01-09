@@ -11,3 +11,18 @@
 		}
 	]
 }
+{
+	"movies": [{
+			"name": "Matrix",
+			"type": "Scine-Function",
+			"stars": "oguzhan",
+	  		"photoUrl": "https://github.com/Oguzhan94/hr200009oguzhangunduz/blob/main/indir%20(1).jpg"
+		},
+		{
+			"name": "Titanic",
+			"tyype": "Drama",
+			"stars": "İrem",
+		    "photoUrl": "https://github.com/Oguzhan94/hr200009oguzhangunduz/blob/main/indir%20(2).jpg"
+		}
+	]
+}
