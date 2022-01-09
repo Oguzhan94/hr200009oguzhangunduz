@@ -1,0 +1,13 @@
+{
+	"movies": [{
+			"name": "Matrix",
+			"type": "Scine-Function",
+			"stars": "oguzhan"
+		},
+		{
+			"name": "Titanic",
+			"tyype": "Drama",
+			"stars": "İrem"
+		}
+	]
+}
