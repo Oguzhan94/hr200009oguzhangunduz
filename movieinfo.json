@@ -1,0 +1,33 @@
+{
+	"movies": [{
+		"name": "Titanic",
+		"genres": "Romantic",
+		"stars": "Leonardo DiCaprio, Kate Winslet"
+		},
+		{
+		"name": "Matrix",
+		"genres": "Sci",
+		"stars": "Keanu Reeves, Laurence Fishburne"
+		},
+		{
+		"name": "Titanic2",
+		"genres": "Drama",
+		"stars": "Leonardo DiCaprio, Kate Winslet"
+		},
+		{
+		"name": "Matrix2",
+		"genres": "Fantastic",
+		"stars": "Keanu Reeves, Laurence Fishburne"
+		},
+		{
+		"name": "Titanic3",
+		"genres": "Drama3",
+		"stars": "Leonardo DiCaprio, Kate Winslet"
+		},
+		{
+		"name": "Matrix3",
+		"genres": "Fantastic3",
+		"stars": "Keanu Reeves, Laurence Fishburne"
+		}
+		]
+}
