@@ -8,7 +8,7 @@
  	{
  		"name": "Matrix",
  		"genres": "Sci",
- 		"stars": ["Keanu Reeves", "Laurence Fishburne"],
+ 		"stars": "Keanu Reeves,Laurence Fishburne",
  		"detail": "içerikiçerikiçerikiçerikiçerikiçerikiçerikiçerikiçerikiçerikiçerikiçerik",
  		"photoUrl": "https://raw.githubusercontent.com/Oguzhan94/hr200009oguzhangunduz/main/indir%20(1).jpg"
  	},
