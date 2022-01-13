@@ -1,5 +1,5 @@
-{
-	"movies": [{
+ [
+	 {
 			"name": "Titanic",
 			"genres": "Romantic",
 			"stars": "Leonardo DiCaprio, Kate Winslet",
@@ -42,4 +42,4 @@
 			"photoUrl": "https://raw.githubusercontent.com/Oguzhan94/hr200009oguzhangunduz/main/indir%20(1).jpg"
 		}
 	]
-}
+
